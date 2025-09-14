@@ -137,24 +137,5 @@ To use the trained model for inference:
 
 ---
 
-## **Contributing**
-
-Contributions are welcome! If you'd like to improve this project, please:
-1. Fork the repository.
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your feature"
-   ```
-4. Push and create a pull request:
-   ```bash
-   git push origin feature/YourFeature
-   ```
-
----
-
 ## **Authors**
 - [**ABDELKADIR Sellahi**](https://github.com/AbdelkadirSellahi)
